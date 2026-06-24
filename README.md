@@ -11,3 +11,4 @@ CAPPLab Energy Project: https://www.youtube.com/watch?v=tqFb964S7GM <br>
 CAPPLab Summer Project: https://www.youtube.com/watch?v=-GiLeR-n0rs <br>
 CAPPLab Pet Scanner Project: https://www.youtube.com/watch?v=TqwRtP1znhw <br>
 DRZ Course-Project Presentations: https://www.youtube.com/watch?v=hrM-70kZuww <br>
+WSU Analytics Showcase: https://www.youtube.com/watch?v=0c6WqjhUzmY <br>
