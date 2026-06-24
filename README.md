@@ -3,5 +3,5 @@ Created by Dr. Zaman. June 2026.
 # This repository contains visual materials related to teaching, research, and laboratory activities.
 
 ## Video Demonstration
-[![Demo Video](WSU-CAPPLab_Logo_BG.png)]([Y2026_DRZ_CAPPLab.mp4](https://www.youtube.com/watch?v=tqFb964S7GM))
+([Y2026_DRZ_CAPPLab.mp4](https://www.youtube.com/watch?v=tqFb964S7GM))
 Click the image above to watch the full demonstration.
