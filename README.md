@@ -1,9 +1,8 @@
 # visuals
 Created by Dr. Zaman. June 2026.
 # This repository contains visual materials related to teaching, research, and laboratory activities.
-[![Demo Video](WSU-CAPPLab_Logo_WB.png)] <br> 
+[![Demo Video](WSU-CAPPLab_Logo_WB.png)] (https://www.wichita.edu/academics/engineering/ECE/research/CAPPLab/index.php) <br> 
 Computer Architecture and Parallel Programming Laboratory (CAPPLab) <br>
-(https://www.wichita.edu/academics/engineering/ECE/research/CAPPLab/index.php) 
 ## Video Demonstration
 CAPPLab Welcome Video: https://www.youtube.com/watch?v=Nue0CENItg0 <br>
 CAPPLab Energy Project: https://www.youtube.com/watch?v=tqFb964S7GM <br>
