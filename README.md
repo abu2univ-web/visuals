@@ -1,6 +1,6 @@
-# visuals
+# research visuals
 Created by Dr. Zaman. June 2026.
-# This repository contains visual materials related to teaching, research, and laboratory activities.
+# This repository contains visual materials related to research and laboratory activities.
 [![Demo Video](WSU-CAPPLab_Logo_WB.png)](https://www.wichita.edu/academics/engineering/ECE/research/CAPPLab/index.php) <br> 
 Computer Architecture and Parallel Programming Laboratory (CAPPLab) <br>
 ## Video Demonstration
