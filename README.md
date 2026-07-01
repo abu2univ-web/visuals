@@ -1,5 +1,5 @@
 # research visuals | [Research Statement](https://github.com/abu2univ-web/04-research-publications/blob/main/Research_Statement.pdf)
-Created by Dr. Zaman. June 2026. <br><br>
+Created by Dr. Zaman. June 2026.
 # This repository contains visual materials related to research and laboratory activities.
 [![Demo Video](WSU-CAPPLab_Logo_WB.png)](https://www.wichita.edu/academics/engineering/ECE/research/CAPPLab/index.php) <br> 
 Computer Architecture and Parallel Programming Laboratory (CAPPLab) <br>
