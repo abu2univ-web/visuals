@@ -1,4 +1,4 @@
-# research visuals
+# research visuals [Research Statement](https://github.com/abu2univ-web/04-research-publications/blob/main/Research_Statement.pdf)
 Created by Dr. Zaman. June 2026. <br><br>
 [Research Statement](https://github.com/abu2univ-web/04-research-publications/blob/main/Research_Statement.pdf) <br>
 # This repository contains visual materials related to research and laboratory activities.
